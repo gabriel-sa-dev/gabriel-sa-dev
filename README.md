@@ -11,7 +11,7 @@ Construindo sistemas distribuídos, plataformas de saúde e soluções com IA ge
 Foco em arquiteturas escaláveis, observabilidade e qualidade de código.
 </p>
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-sa-dev/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielsadev1/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gabriel-sa-dev)
 
 </div>
